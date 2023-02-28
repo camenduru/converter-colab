@@ -4,3 +4,7 @@
 ## 🦒 Colab 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/converter-colab/blob/main/converter_colab.ipynb)
+
+## Licenses
+
+https://github.com/huggingface/diffusers/blob/main/LICENSE
